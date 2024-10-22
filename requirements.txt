@@ -1,0 +1,6 @@
+flask
+langchain
+simpletransformers
+requests
+beautifulsoup4
+transformers
